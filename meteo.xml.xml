@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="meteo.xsd">
+    <mesure date="2024-11-28">
+        <ville nom="casa" temperature="22"/>
+        <ville nom="tanger" temperature="25"/>
+        <ville nom="Mohammedia" temperature="23"/>
+        <ville nom="Marrakech" temperature="32"/>
+        <ville nom="El jadida" temperature="26"/>
+        <ville nom="LAAYOUNE" temperature="34"/>
+        <ville nom="OURZAZATE" temperature="36"/>
+        <ville nom="DAKHLA" temperature="34"/>
+        <ville nom="OUJDA" temperature="31"/>
+    </mesure>
+    
+    <mesure date="2024-11-12">
+        <ville nom="casa" temperature="32"/>
+        <ville nom="tanger" temperature="21"/>
+        <ville nom="Mohammedia" temperature="24"/>
+        <ville nom="Marrakech" temperature="39"/>
+        <ville nom="El jadida" temperature="26"/>
+        <ville nom="LAAYOUNE" temperature="32"/>
+        <ville nom="OURZAZATE" temperature="37"/>
+        <ville nom="DAKHLA" temperature="38"/>
+        <ville nom="OUJDA" temperature="32"/>
+    </mesure>
+</meteo>
